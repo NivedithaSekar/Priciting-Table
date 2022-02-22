@@ -18,7 +18,8 @@ function App() {
 }
 
 function Product(props){
-  let template = "";
+  //template for the Product Component
+  //List of Features and A Button
   return(
       <div className="col-lg-4">
         <div className="card mb-5 mb-lg-0">
